@@ -1,0 +1,24 @@
+.todos-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    height: 100%;
+}
+
+.left-part {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 200px;
+    padding-top: var(--page-default-padding);
+    height: 100%;
+    border-right: 1px solid var(--default-border-color);
+}
+
+.right-part {
+    display: flex;
+    height: 100%;
+    flex: 1;
+    flex-basis: auto;
+    flex-direction: column;
+    padding: var(--page-default-padding);
+}

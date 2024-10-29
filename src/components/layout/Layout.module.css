@@ -1,0 +1,14 @@
+.main-container {
+    background-color: var(--default-background-color);
+    height: 100vh;
+}
+
+.menu-container {
+    height: var(--header-height);
+    align-content: center;
+    border-bottom: 1px solid var(--default-border-color);
+}
+
+.page-container {
+    height: calc(100vh - var(--header-height));
+}

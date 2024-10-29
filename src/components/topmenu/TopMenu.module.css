@@ -1,0 +1,10 @@
+
+.top-menu-items {
+    color: var(--default-text-color);
+    text-decoration: none;
+    font-size: var(--font-size-medium);
+}
+
+.hover-menu-item {
+    cursor: pointer;
+}

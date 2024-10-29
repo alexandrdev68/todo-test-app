@@ -1,0 +1,13 @@
+.landing-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: var(--page-default-padding);
+}
+
+.table-container {
+    width: 100%;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+}

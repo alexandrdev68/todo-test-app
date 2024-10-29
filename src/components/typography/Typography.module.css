@@ -1,0 +1,43 @@
+
+
+.Typography-element-h1 {
+    font-size: 48px;
+    font-weight: 500;
+    font-style: normal;
+    color: var(--default-text-color);
+}
+
+.Typography-element-h2 {
+    font-size: 36px;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--default-text-color);
+}
+
+.Typography-element-h3 {
+    font-size: 30px;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--default-text-color);
+}
+
+.Typography-element-h4 {
+    font-size: 24px;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--default-text-color);
+}
+
+.Typography-element-h5 {
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--default-text-color);
+}
+
+.Typography-element-h6 {
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--default-text-color);
+}
